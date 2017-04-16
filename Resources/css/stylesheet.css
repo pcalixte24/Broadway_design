@@ -1,0 +1,40 @@
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h6{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+div{
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica;
+  font-size:14px;
+}
+
+h4{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight:bold;
+  color:white;
+  background-image: /Users/ticarme/Documents/Broadway Design/Resources/images/the-flatiron-building.jpg
+}
